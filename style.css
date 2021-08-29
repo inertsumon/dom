@@ -1,0 +1,30 @@
+body {
+  background-color: darkslategray;
+}
+h1 {
+  text-align: center;
+  color: white;
+  padding: 10px;
+  letter-spacing: 2px;
+}
+form {
+  margin: auto;
+  width: 200px;
+}
+input {
+  margin-bottom: 20px;
+  padding: 8px;
+  border: none;
+  background-color: lightpink;
+  border-radius: 5px;
+  width: 200px;
+}
+button {
+  padding: 10px;
+  border: none;
+  background-color: rgb(230, 67, 92);
+  border-radius: 5px;
+  width: 100px;
+  margin: auto;
+  display: block;
+}
